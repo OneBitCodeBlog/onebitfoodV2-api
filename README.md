@@ -1,24 +1,3 @@
-# README
+## OneBitFood V2 API
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Esta API foi criada para o evento OneBitFood "criando um APP inspirado no IFood com Ruby On Rails + Next.js" do [OneBitCode](https://onebitcode.com)!
